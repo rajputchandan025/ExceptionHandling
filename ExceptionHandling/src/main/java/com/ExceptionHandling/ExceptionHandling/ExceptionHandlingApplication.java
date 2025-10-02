@@ -12,7 +12,6 @@ public class ExceptionHandlingApplication {
 		System.out.println("Global Exception Handling Class Started");
 		System.out.println("added 3rdline");
 
-
 	}
 
 }
