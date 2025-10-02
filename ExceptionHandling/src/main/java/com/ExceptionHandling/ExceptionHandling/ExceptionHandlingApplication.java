@@ -11,6 +11,7 @@ public class ExceptionHandlingApplication {
 		SpringApplication.run(ExceptionHandlingApplication.class, args);
 		System.out.println("Global Exception Handling Class Started");
 		System.out.println("added 3rdline");
+		System.out.println("conflict 1st line added");
 
 	}
 
