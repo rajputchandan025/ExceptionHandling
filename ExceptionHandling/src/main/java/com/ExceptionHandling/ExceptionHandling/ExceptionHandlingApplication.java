@@ -12,6 +12,7 @@ public class ExceptionHandlingApplication {
 		System.out.println("Global Exception Handling Class Started");
 		System.out.println("added first line");
 		System.out.println("added 2nd  line");
+		System.out.println("conflict 1st/1 line added");
 
 	}
 
