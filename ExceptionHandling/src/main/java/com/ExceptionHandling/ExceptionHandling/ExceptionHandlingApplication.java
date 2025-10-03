@@ -14,7 +14,7 @@ System.out.println(" git local 1/1 changes");
 
 		System.out.println(" git local 1 changes");
 	
-System.out.println(" git local 2/2  changes");
+System.out.println(" git global 2/2  changes");
 
 
 	}
