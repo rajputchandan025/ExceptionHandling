@@ -25,6 +25,8 @@ System.out.println(" git local 2 changes");
 
 		System.out.println(" conflict for intellij ide");
 
+		System.out.println(" conflict for intellij ide remote 2/2");
+
 
 
 
