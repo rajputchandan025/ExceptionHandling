@@ -20,6 +20,7 @@ System.out.println(" git local 2 changes");
 
 		System.out.println(" from chandan branch add 1 line changes");
 		System.out.println(" from chandan1 branch add 1 line changes");
+		System.out.println(" conflict for intellij 1/1 ");
 
 
 
