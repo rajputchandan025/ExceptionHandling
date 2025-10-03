@@ -9,10 +9,7 @@ public class ExceptionHandlingApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(ExceptionHandlingApplication.class, args);
-		System.out.println("Global Exception Handling Class Started");
-		System.out.println("added first line");
-		System.out.println("added 2nd  line");
-		System.out.println("conflict 1st/1 line added");
+
 
 	}
 
